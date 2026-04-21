@@ -1,0 +1,12 @@
+# Contenu du fichier .gitignore à la racine du projet
+.env
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+venv/
+*.log
+.env 
+backend/.env 
+backend/.env 
+.env 
